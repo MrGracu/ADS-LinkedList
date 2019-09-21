@@ -1,5 +1,5 @@
 # ADS-LinkedList
- [Algorithms and Data Structures] Manage and create linked list in Pascal.  
+ [Algorithms and Data Structures] Manage and create linked list in Pascal (queue structure).  
  The program creates a one-way list (queue structure) whose elements are of record type.  
   
 Variables beginning and end are defined to indicate the beginning and end of the list.  
