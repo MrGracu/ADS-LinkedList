@@ -1,5 +1,3 @@
-{ MADE BY GRACJAN MIKA ( https://www.gmika.pl ) }
-
 program ADS_Linkedlist;
 
 uses crt;
